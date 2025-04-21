@@ -1,0 +1,2 @@
+1. Aprender GitHub
+2. Aprender sobre las librerias de python
